@@ -16,8 +16,11 @@
     "express-async-handler": "^1.2.0",
     "framer-motion": "^11.2.6",
     "jsonwebtoken": "^9.0.2",
+    "lottie": "^0.0.1",
+    "lottie-web": "^5.12.2",
     "mongoose": "^8.4.1",
     "nodemon": "^3.1.1",
+    "react-lottie": "^1.2.4",
     "socket.io": "^4.7.5"
   }
 }
